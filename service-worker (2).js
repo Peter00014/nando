@@ -3,7 +3,7 @@ const CACHE_NAME = "my-cache-v3";
 const CACHE_ASSETS = [
   "/",
   "/index.html",
-  "/css/estilos.css",
+  "/css/styles.css",
   "/js/efectos.js",
   "/js/jquery-1.12.3.min.js",
   "/js/parallax.js",
