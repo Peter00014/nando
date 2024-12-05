@@ -3,7 +3,7 @@
 const CACHE_NAME = 'WebControl',
   urlsToCache = [
     './',
-    './index.php',
+    './index.html',
     './css/styles.css',
     './vendor/bootstrap.css',
     './vendor/bootstrap.min.css',
