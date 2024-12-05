@@ -7,21 +7,13 @@ const CACHE_ASSETS = [
   "/js/efectos.js",
   "/js/jquery-1.12.3.min.js",
   "/js/parallax.js",
-  "/img/1.jpg",
-  "/img/2.jpg",
-  "/img/3.jpg",
-  "/img/4.jpg",
-  "/img/5.jpg",
-  "/img/6.jpg",
-  "/img/7.jpg",
-  "/img/8.jpg",
-  "/img/acerca-de.jpg",
-  "/img/bg-textura.png",
-  "/img/bg.jpg",
-  "/img/icon-192x192.jpg",
-  "/img/icon-192x192.png",
-  "/img/icon-512x512.jpg",
-  "/img/icon-512x512.png",
+  "/img/compania3.png",
+  "/img/persona13.png",
+  "/img/visi2.png",
+  "/img/histo.png",
+  "/img/icon-193x192-png",
+
+
   "/img/icon.ico",
 ];
 
